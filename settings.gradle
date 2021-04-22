@@ -1,0 +1,3 @@
+include ':core-3.3.0'
+include ':app'
+rootProject.name = "SunmiV2POSExample"
